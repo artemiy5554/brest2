@@ -1,0 +1,12 @@
+.brest {
+    text-decoration: grey underline;
+}
+
+img {
+    width: 1000px;
+    height: 500px;
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+}
